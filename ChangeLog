@@ -1,3 +1,8 @@
+2007-10-15  Frederic Peters  <fpeters@0d.be>
+
+	* css/layout.css:
+	* index.html: added Google Site search to search in archives.
+
 2007-10-09  Andreas Nilsson  <nisses.mail@home.se>
 
 	* css/mail.png: now tango-styled!

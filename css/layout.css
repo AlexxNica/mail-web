@@ -135,19 +135,34 @@ a:active {
 
 /* Search thingy */
 
-#search {
-	font-size: small;
-	margin-bottom: 10px;
-	padding: 10px;
-	background-color: #dddddd;
+div#search {
+	position: absolute;
+	text-align: right;
+	right: 1em;
+	top: 5em;
+	font-size: 75%;
 }
 
-#search input {
-	border: 1px solid #666666;
-	background-color: #ffffff;
-
-	vertical-align: middle;
+div#search form {
+        background: transparent;
 }
+
+input.searchTerms {
+	border: 1px solid #888888;
+}
+
+div#search input.searchTerms {
+	margin-right: 1ex;
+}
+
+input.searchButton {
+	background: white url(search_icon.gif) no-repeat scroll 2px center;
+	cursor: pointer;
+	padding: 1px 1px 1px 15px;
+	text-transform: none;
+	border: 1px solid #888888;
+}
+
 
 
 /* Sidebar */
