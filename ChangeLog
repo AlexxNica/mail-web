@@ -1,3 +1,8 @@
+2008-07-23  Frederic Peters  <fpeters@0d.be>
+
+	* css/layout.css: set font colour on search button (it forced
+	background to white and had no foreground colour set).
+
 2008-06-30  Olav Vitters  <olav@bkor.dhs.org>
 
 	* index.html: Make CoC warning more stern as per discussion on
