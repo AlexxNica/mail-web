@@ -1,3 +1,8 @@
+2008-11-29  Olav Vitters  <olav@bkor.dhs.org>
+
+	* index.html: Warn people that mailman@gnome.org is not what they
+	think it is.
+
 2008-07-23  Frederic Peters  <fpeters@0d.be>
 
 	* css/layout.css: set font colour on search button (it forced
